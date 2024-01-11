@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a chat app, an audio clip generator, and a video game 
-- 🌱 I’m currently learning Computer Systems, Network & Security, and Software Engineering
+- 🔭 I’m currently a software development student at the University of UTah
+- 🌱 I’m currently learning computer systems, network & security, and python
 - 👯 I am always looking for new opportunites to sharpen my tools in the toolbox
 - 🤔 I’m looking for help with networking opportunities and internship placements
 - 📫 How to reach me: 
