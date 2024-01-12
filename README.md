@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a software development student at the University of Utah
-- 🌱 I’m currently learning computer systems, network & security, and python
+- 🌱 I’m currently learning computer systems and network & security
 - 👯 I am constantly seeking fresh opportunities to enhance my skills and expand my repertoire
 - 📫 How to reach me: 
   - jonescorinne6@gmail.com
