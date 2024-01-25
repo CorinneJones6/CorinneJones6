@@ -7,4 +7,4 @@
   - jonescorinne6@gmail.com
   - https://www.linkedin.com/in/corinne-jones-851422198/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: In my free time I snowboard, read fantasy, and watch trashy reality TV
+- ⚡ Fun fact: In my free time I snowboard 🏂, mountain bike 🚵, read nerdy books📚 , and watch trashy reality TV 📺 
